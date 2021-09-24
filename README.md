@@ -1,3 +1,8 @@
-# Teoria dos Grafos
-Algoritmos feitos para a disciplina Teoria dos Grafos
-Alunos: Matheus Ferreira Gêda e Ayrton Ouriques
+# Teoria dos Grafos<p>
+## Alunos: Matheus Ferreira Gêda e Ayrton Ouriques<p>
+### Algoritmos feitos para a disciplina Teoria dos Grafos<p>
+  ### Algoritmos escolhidos:
+  #### Bellman-Ford<p>
+  #### Prim<p>
+  #### Kruskal<p>
+  #### Dijkistra<p>
